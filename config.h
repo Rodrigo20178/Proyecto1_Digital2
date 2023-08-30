@@ -5,8 +5,8 @@
 #define IO_USERNAME  "tru20844"
 #define IO_KEY       "aio_Bgxv43fWChaltjOZHqz9c3nlE2HY"
 
-#define WIFI_SSID "iPhone de Rodris"
-#define WIFI_PASS "Dgarcia2005"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 #include "AdafruitIO_WiFi.h"
 AdafruitIO_WiFi io(IO_USERNAME, IO_KEY, WIFI_SSID, WIFI_PASS);
